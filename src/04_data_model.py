@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  7 12:25:54 2025
-
-@author: Arshlao25
-"""
 # Import necessary packages for analysis
 import pandas as pd
 import numpy as np

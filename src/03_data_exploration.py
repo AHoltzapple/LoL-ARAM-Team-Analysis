@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  5 12:26:57 2025
-
-@author: Arshlao25
-"""
-
 import pandas as pd
 import seaborn as sns
 import numpy as np

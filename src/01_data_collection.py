@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 18:36:00 2025
-
-@author: Arshlao25
-"""
-
 import json
 import time
 import requests
